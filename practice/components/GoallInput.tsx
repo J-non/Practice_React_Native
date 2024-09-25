@@ -8,6 +8,7 @@ const GoallInput = (props) => {
     setEnterdGoalText(enterdText)
   }
 
+
   return (
     <Modal visible={props.visible} animationType='slide' transparent={true} >
 
